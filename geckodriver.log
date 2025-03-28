@@ -1,0 +1,192 @@
+1743162377491	geckodriver	INFO	Listening on 127.0.0.1:54581
+1743162380559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--detach" "--remote-debugging-port" "54582 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KTECH~1\\AppData\\Local\\Temp\\rust_mozprofiledy8eXA"
+1743162414357	geckodriver	INFO	Listening on 127.0.0.1:54597
+1743162417377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--detach" "--remote-debugging-port" "54598 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KTECH~1\\AppData\\Local\\Temp\\rust_mozprofilekfwbsH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1743162418187	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-detach"
+1743162418346	Marionette	INFO	Listening on port 54617
+WebDriver BiDi listening on ws://127.0.0.1:54598
+Read port: 54617
+1743162418621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yg/l/en_US/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: FormAutofillSection: isRecordCreatable: Country not supported: undefined
+1743162456058	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yV/l/rt/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1743162462401	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1743162472604	Marionette	INFO	Stopped listening on port 54617
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4/yj/r/41Lmsql0AnJ.js, line 227: Script terminated by timeout at:
+L/E<@https://static.cdninstagram.com/rsrc.php/v4/yj/r/41Lmsql0AnJ.js:227:2395
+
+Dynamically enable window occlusion 1
+1743162483360	geckodriver	INFO	Listening on 127.0.0.1:54696
+1743162486410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--detach" "--remote-debugging-port" "54697 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KTECH~1\\AppData\\Local\\Temp\\rust_mozprofile7XUSyL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1743162487057	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-detach"
+1743162487237	Marionette	INFO	Listening on port 54705
+WebDriver BiDi listening on ws://127.0.0.1:54697
+Read port: 54705
+1743162487473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yg/l/en_US/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yg/l/en_US/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4/yj/r/41Lmsql0AnJ.js, line 88: Error: Got unexpected null or undefined
+1743162503860	Marionette	INFO	Stopped listening on port 54705
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4/yj/r/41Lmsql0AnJ.js, line 227: Script terminated by timeout at:
+L/E<@https://static.cdninstagram.com/rsrc.php/v4/yj/r/41Lmsql0AnJ.js:227:2395
+
+Dynamically enable window occlusion 1
+1743162516179	geckodriver	INFO	Listening on 127.0.0.1:54768
+1743162519227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--detach" "--remote-debugging-port" "54769 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KTECH~1\\AppData\\Local\\Temp\\rust_mozprofileGEKOeA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1743162519807	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-detach"
+1743162519980	Marionette	INFO	Listening on port 54776
+WebDriver BiDi listening on ws://127.0.0.1:54769
+Read port: 54776
+1743162520246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yg/l/en_US/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4/yj/r/41Lmsql0AnJ.js, line 88: Error: Got unexpected null or undefined
+1743162542066	Marionette	INFO	Stopped listening on port 54776
+Dynamically enable window occlusion 1
+1743162763982	geckodriver	INFO	Listening on 127.0.0.1:54838
+1743162767021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--detach" "--remote-debugging-port" "54839 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KTECH~1\\AppData\\Local\\Temp\\rust_mozprofilejwi7VD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1743162767745	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-detach"
+1743162768097	Marionette	INFO	Listening on port 54850
+WebDriver BiDi listening on ws://127.0.0.1:54839
+Read port: 54850
+1743162768566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yg/l/en_US/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4/yj/r/41Lmsql0AnJ.js, line 88: Error: Got unexpected null or undefined
+1743162788589	Marionette	INFO	Stopped listening on port 54850
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4/yj/r/41Lmsql0AnJ.js, line 227: Script terminated by timeout at:
+L/E<@https://static.cdninstagram.com/rsrc.php/v4/yj/r/41Lmsql0AnJ.js:227:2395
+
+Dynamically enable window occlusion 1
+1743162881535	geckodriver	INFO	Listening on 127.0.0.1:54897
+1743162884576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--detach" "--remote-debugging-port" "54898 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KTECH~1\\AppData\\Local\\Temp\\rust_mozprofileNEf1AL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1743162885394	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-detach"
+1743162885604	Marionette	INFO	Listening on port 54905
+WebDriver BiDi listening on ws://127.0.0.1:54898
+Read port: 54905
+1743162885869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yg/l/en_US/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yg/l/en_US/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4/yj/r/41Lmsql0AnJ.js, line 88: Error: Got unexpected null or undefined
+1743162913344	Marionette	INFO	Stopped listening on port 54905
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4/yj/r/41Lmsql0AnJ.js, line 227: Script terminated by timeout at:
+L/E<@https://static.cdninstagram.com/rsrc.php/v4/yj/r/41Lmsql0AnJ.js:227:2395
+
+Dynamically enable window occlusion 1
+1743163127070	geckodriver	INFO	Listening on 127.0.0.1:55067
+1743163130140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--detach" "--remote-debugging-port" "55068 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KTECH~1\\AppData\\Local\\Temp\\rust_mozprofilen4aOPt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1743163130642	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-detach"
+1743163130828	Marionette	INFO	Listening on port 55077
+WebDriver BiDi listening on ws://127.0.0.1:55068
+Read port: 55077
+1743163131059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yg/l/en_US/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yg/l/en_US/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4/yj/r/41Lmsql0AnJ.js, line 88: Error: Got unexpected null or undefined
+1743163149353	Marionette	INFO	Stopped listening on port 55077
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4/yj/r/41Lmsql0AnJ.js, line 227: Script terminated by timeout at:
+L/E<@https://static.cdninstagram.com/rsrc.php/v4/yj/r/41Lmsql0AnJ.js:227:2395
+
+Dynamically enable window occlusion 1
+1743163231672	geckodriver	INFO	Listening on 127.0.0.1:55112
+1743163234602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--detach" "--remote-debugging-port" "55113 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KTECH~1\\AppData\\Local\\Temp\\rust_mozprofile4xHmng"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1743163235459	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-detach"
+1743163235626	Marionette	INFO	Listening on port 55120
+WebDriver BiDi listening on ws://127.0.0.1:55113
+Read port: 55120
+1743163235908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yg/l/en_US/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yg/l/en_US/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yg/l/en_US/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4/yj/r/41Lmsql0AnJ.js, line 88: Error: Got unexpected null or undefined
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4iSXb4/yL/l/en_US/vlcdrjS4DnV.js, line 827: Script terminated by timeout at:
+i.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v4iSXb4/yL/l/en_US/vlcdrjS4DnV.js:827:4276
+C@https://static.cdninstagram.com/rsrc.php/v4iSXb4/yL/l/en_US/vlcdrjS4DnV.js:827:1597
+i._initialize/<@https://static.cdninstagram.com/rsrc.php/v4iSXb4/yL/l/en_US/vlcdrjS4DnV.js:827:4912
+d@https://static.cdninstagram.com/rsrc.php/v4iSXb4/yL/l/en_US/vlcdrjS4DnV.js:803:158
+
+1743163255419	Marionette	INFO	Stopped listening on port 55120
+Dynamically enable window occlusion 1
+1743163340201	geckodriver	INFO	Listening on 127.0.0.1:55149
+1743163343239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--detach" "--remote-debugging-port" "55150 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KTECH~1\\AppData\\Local\\Temp\\rust_mozprofileojFwr2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1743163343853	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-detach"
+1743163344015	Marionette	INFO	Listening on port 55157
+WebDriver BiDi listening on ws://127.0.0.1:55150
+Read port: 55157
+1743163344255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yg/l/en_US/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yg/l/en_US/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yg/l/en_US/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4/yj/r/41Lmsql0AnJ.js, line 88: Error: Got unexpected null or undefined
+1743163368671	Marionette	INFO	Stopped listening on port 55157
+Dynamically enable window occlusion 1
+1743174186637	geckodriver	INFO	Listening on 127.0.0.1:55337
+1743174189660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--detach" "--remote-debugging-port" "55338 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KTECH~1\\AppData\\Local\\Temp\\rust_mozprofile06paUa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1743174190145	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-detach"
+1743174190299	Marionette	INFO	Listening on port 55345
+WebDriver BiDi listening on ws://127.0.0.1:55338
+Read port: 55345
+1743174190517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yg/l/en_US/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yV/l/rt/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1743174203880	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yV/l/rt/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1743174229502	Marionette	INFO	Stopped listening on port 55345
+Dynamically enable window occlusion 1
+1743174233099	geckodriver	INFO	Listening on 127.0.0.1:57237
+1743174236142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--detach" "--remote-debugging-port" "57238 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KTECH~1\\AppData\\Local\\Temp\\rust_mozprofileIPHXtp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1743174236534	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-detach"
+1743174236687	Marionette	INFO	Listening on port 57246
+WebDriver BiDi listening on ws://127.0.0.1:57238
+Read port: 57246
+1743174236907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yg/l/en_US/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yV/l/rt/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1743174251507	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yV/l/rt/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
