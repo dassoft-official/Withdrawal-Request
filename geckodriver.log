@@ -190,3 +190,5 @@ JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yg/l/en_US/
 JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yV/l/rt/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1743174251507	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yV/l/rt/Zhhk9Y8E-d9.js, line 108: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1743174302551	Marionette	INFO	Stopped listening on port 57246
+Dynamically enable window occlusion 1
